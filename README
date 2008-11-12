@@ -1,0 +1,19 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2428
+
+Toggle Comment state of line.(C/C++/Java/perl/python/ruby/awk/sh/104 languages)
+
+<Esc>cc     Toggle comment state of the current line
+<Esc>ncc   Toggle n straight lines.
+
+Supported file type:    Over 104 languages
+
+   //:        C, C++, java, javascript, etc.
+   #:        awk, makefile, perl, python, ruby, sed, sh, etc.
+   ":         vim
+   ':         asp, basic, vbscript
+   ;:         asm, ini, etc.
+   rem :  bat
+   --:       sql, etc.
+   %:      matlab, tex, etc.
+...
+
